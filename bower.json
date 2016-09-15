@@ -1,0 +1,28 @@
+{
+  "name": "virtualpad",
+  "authors": [
+    "lycwed <ylechevalier@gmail.com>"
+  ],
+  "description": "Virtual pad for phaser.io",
+  "main": "build/virtualpad.min.js",
+  "keywords": [
+    "virtualpad",
+    "phaser",
+    "touch",
+    "mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "gulpfile.js",
+    "example",
+    "node_modules",
+    "bower_components",
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true
+}
