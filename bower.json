@@ -13,16 +13,8 @@
     "mobile"
   ],
   "license": "MIT",
-  "ignore": [
-    "package.json",
-    ".gitignore",
-    ".jshintrc",
-    "gulpfile.js",
-    "example",
-    "node_modules",
-    "bower_components"
-  ],
+  "ignore": [],
   "moduleType": [],
   "homepage": "",
-  "private": true
+  "private": false
 }
