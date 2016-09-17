@@ -1,0 +1,23 @@
+{
+  "name": "virtualpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/virtualpad.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lycwed/virtualpad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lycwed/virtualpad/issues"
+  },
+  "homepage": "https://github.com/lycwed/virtualpad#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-strip-comments": "^2.4.3",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3"
+  }
+}
